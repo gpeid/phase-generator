@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phase-generator/static/css/main.f77ef7d0.chunk.css",
+    "main.js": "/phase-generator/static/js/main.12c26a11.chunk.js",
+    "main.js.map": "/phase-generator/static/js/main.12c26a11.chunk.js.map",
+    "runtime-main.js": "/phase-generator/static/js/runtime-main.1d418929.js",
+    "runtime-main.js.map": "/phase-generator/static/js/runtime-main.1d418929.js.map",
+    "static/js/2.1363195d.chunk.js": "/phase-generator/static/js/2.1363195d.chunk.js",
+    "static/js/2.1363195d.chunk.js.map": "/phase-generator/static/js/2.1363195d.chunk.js.map",
+    "index.html": "/phase-generator/index.html",
+    "precache-manifest.99e2344533e747c6ec117a1bf58d73f5.js": "/phase-generator/precache-manifest.99e2344533e747c6ec117a1bf58d73f5.js",
+    "service-worker.js": "/phase-generator/service-worker.js",
+    "static/css/main.f77ef7d0.chunk.css.map": "/phase-generator/static/css/main.f77ef7d0.chunk.css.map",
+    "static/js/2.1363195d.chunk.js.LICENSE.txt": "/phase-generator/static/js/2.1363195d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d418929.js",
+    "static/js/2.1363195d.chunk.js",
+    "static/css/main.f77ef7d0.chunk.css",
+    "static/js/main.12c26a11.chunk.js"
+  ]
+}
