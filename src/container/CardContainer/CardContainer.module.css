@@ -1,0 +1,36 @@
+@keyframes shuffleAnimate {
+	from {
+		transform: rotate3d(0, 0, 0, 0turn);
+	}
+	to {
+		transform: rotate3d(0, 1, 0, 1turn);
+	}
+}
+
+@keyframes shuffleunAnimate {
+	from {
+		transform: rotate3d(0, 0, 0, 0turn);
+	}
+	to {
+		transform: rotate3d(0, -1, 0, 1turn);
+	}
+}
+
+.card_container {
+	height: 430px;
+	width: 280px;
+	margin: auto;
+	border-radius: 15px;
+	border: 1px solid black;
+	/* transform: scale(5); */
+}
+
+.animate {
+	animation-duration: 250ms;
+	animation-name: shuffleAnimate;
+}
+
+.unanimate {
+	animation-duration: 250ms;
+	animation-name: shuffleunAnimate;
+}
