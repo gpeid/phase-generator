@@ -12,4 +12,3 @@ export const PHASES_CLASSIC = [
 ];
 
 export const PHASES_PARTIALS = [];
-activ
